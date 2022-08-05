@@ -1,0 +1,21 @@
+{
+  "name": "playwrightdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaszloQ/PlaywrightDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaszloQ/PlaywrightDemo/issues"
+  },
+  "homepage": "https://github.com/LaszloQ/PlaywrightDemo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.24.2"
+  }
+}
